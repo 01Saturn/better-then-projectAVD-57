@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(#84ff00 0%, #00ff91 100%);
+    opacity: 0.83;
+    height: 899px;
+    text-align: center;
+    border: 10px solid;
+    padding: 80px;
+}
+#funnithing{
+height: 200px;
+width: 200px;
+    margin-top: 20px;
+}
+.line{
+    width: 400px;
+    height: 20px;
+    background-color: black;
+    margin: 8px auto;
+    margin-bottom: 20px;
+}
+#p1{
+    font-size: 40px;
+}
+#p2{
+    font-size: 25px;
+}
